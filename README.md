@@ -9,12 +9,27 @@ The artwork title, 5715, refers to the number of homeless people in Ireland as o
 ## Physical components
 2 x Arduino Megas,  26 x large Piezoelectric discs, 26 x LM368 Audio Amplifier Modules, Jumper wires, 40 rolls of 26AWG stranded wire in different colours, galvanised steel wall supports.
 
-# Code
-Arduino
+## Code
+Arduino code used was amended from Jeremy Blum's example on driving speakers simultaneously with arduino.
+https://www.jeremyblum.com/2010/09/05/driving-5-speakers-simultaneously-with-an-arduino/
+
+The code included in this repo has two options:
+data mapped High to low frequencies
+1st arduino mega with _2016_Q1A_High_to_Low.ino
+2nd arduino mega with _2016_Q1B_High_to_low.ino
+
+or
+
+data mapped low to high frequencies
+1st arduino mega with _2016_Q1A_low_to_high.ino
+2nd arduino mega with _2016_Q1B_low_to_high.ino
+
+## Glitch Festival 2016 Website
+https://mart.ie/portfolio-item/glitch-festival-2016/
 
 ## Sound test run 
 https://youtu.be/QvIkavq58RE
 
-## Website
+## Personal website
 http://www.aileendrohan.com/5715-2/
 
